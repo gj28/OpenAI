@@ -1,0 +1,83 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+*.db
+*.sqlite3
+
+# Environment variables
+.env
+*.env
+
+# Virtual environment
+venv/
+.venv/
+ENV/
+env/
+
+# VS Code
+.vscode/
+.code-workspace
+
+# PyCharm
+.idea/
+
+# Logs
+*.log
+logs/
+log/
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Cache
+*.cache
+.cache/
+pip-wheel-metadata/
+pip-wheel/
+
+# Byte-compiled / optimized / DLL files
+*.pyc
+*.pyo
+*.pyd
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+parts/
+sdist/
+var/
+
+# Test + Coverage
+htmlcov/
+.tox/
+.nox/
+coverage.xml
+.pytest_cache/
+nosetests.xml
+coverage/
+.cache/
+
+# Uvicorn reload cache
+.reload/
+
+# IDE specific
+*.iml
+*.ipr
+*.iws
+
+# Temp files
+*.tmp
+*.bak
+*.swp
+*.swo
